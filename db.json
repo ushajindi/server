@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "НАТАША",
+      "phonenumber": "454545545",
+      "id": 26
+    },
+    {
+      "name": "ushajindi",
+      "phonenumber": "64645454",
+      "id": 27
+    },
+    {
+      "name": "Заид",
+      "phonenumber": "+789454545458",
+      "id": 28
+    },
+    {
+      "name": "shoh",
+      "phonenumber": "454545455",
+      "id": 29
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
